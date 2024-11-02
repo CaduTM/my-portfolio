@@ -1,8 +1,15 @@
+@import url('background.css');
+
 .titulo{
     background-color: black;
     color: aliceblue;
 }
-
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 body{
     background-color: aqua;
 }
+
